@@ -2,10 +2,9 @@
   "name": "CHANGE_ME",
   "version": "0.1.1",
   "description": "Made with create-react-library",
-  "author": "RonaldoCaetano",
   "license": "MIT",
   "main": "dist/index.js",
-  "module": "dist/tokstokio.share-button.esm.js",
+  "module": "dist/CHANGE_ME.esm.js",
   "typings": "dist/index.d.ts",
   "engines": {
     "node": ">=10"
@@ -31,11 +30,7 @@
     "@storybook/react": "^5.3.19",
     "@types/react": "^16.9.27",
     "@types/react-dom": "^16.9.7",
-    "@vtex/prettier-config": "^0.3.1",
-    "@vtex/tsconfig": "^0.5.0",
-    "eslint-config-vtex-react": "^6.7.0",
     "graphql": "^15.4.0",
-    "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",

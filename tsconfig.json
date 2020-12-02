@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "esModuleInterop": true,
+    "jsx": "preserve",
+    "lib": ["es2017", "dom", "es2018.promise"],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "target": "es2017",
+    "types": ["node", "jest", "graphql"]
+  },
+  "exclude": ["node_modules", "dist"],
+  "include": ["src", "react"],
+  "typeAcquisition": {
+    "enable": false
+  }
+}
