@@ -1,8 +1,0 @@
-{
-  "extends": ["vtex-react"],
-  "parser": "@typescript-eslint/parser",
-  "plugins": ["@typescript-eslint"],
-  "rules": {
-    "@typescript-eslint/prefer-enum-initializers": "off"
-  }
-}

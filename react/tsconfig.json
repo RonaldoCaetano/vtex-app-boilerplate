@@ -6,7 +6,8 @@
     "types": ["node", "jest"],
     "module": "esnext",
     "moduleResolution": "node",
-    "target": "es2017"
+    "target": "es2017",
+    "allowSyntheticDefaultImports": true
   },
   "include": ["./typings/*.d.ts", "./**/*.tsx", "./**/*.ts", "../typings"]
 }
