@@ -2,10 +2,9 @@
   "name": "CHANGE_ME",
   "version": "0.1.1",
   "description": "Made with create-react-library",
-  "author": "RonaldoCaetano",
   "license": "MIT",
   "main": "dist/index.js",
-  "module": "dist/tokstokio.share-button.esm.js",
+  "module": "dist/CHANGE_ME.esm.js",
   "typings": "dist/index.d.ts",
   "engines": {
     "node": ">=10"
