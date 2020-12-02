@@ -34,14 +34,20 @@
     "@vtex/prettier-config": "^0.3.1",
     "@vtex/tsconfig": "^0.5.0",
     "eslint-config-vtex-react": "^6.7.0",
+    "graphql": "^15.4.0",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",
+    "rollup-plugin-graphql": "^0.1.0",
     "rollup-plugin-postcss": "^3.1.8",
     "ts-loader": "^8.0.1",
     "tsdx": "^0.11.0",
     "typescript": "^3.9.6"
+  },
+  "dependencies": {
+    "apollo-client": "^2.6.3",
+    "react-apollo": "^3.1.5"
   },
   "files": [
     "dist",
